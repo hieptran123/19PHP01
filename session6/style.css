@@ -1,0 +1,16 @@
+#demo {
+	height: 300px;
+	width: 30%;
+	border: 2px solid black;
+	border-radius: 50%;
+	box-shadow: 12px -7px 6px grey;
+	background-color: yellow;
+	background-image: url('1.png') ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#demo1 {
+	height: 300px;
+	width: 30%;
+	background-image: linear-gradient(to left, green, blue)
+}

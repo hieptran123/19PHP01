@@ -1,0 +1,27 @@
+div.header {
+	color: red;
+	height: 300px;
+	width: 100%;
+	border: 2px solid black;
+	line-height: 300px;
+	text-align: center;
+}
+div#content {
+	color: pink;
+	height: 400px;
+	width: 100%;
+	border: 2px dotted blue;
+	text-align: center;
+	line-height: 400px;
+}
+div#footer {
+	color: blue;
+	height: 100px;
+	width: 100%;
+	border: 2px solid black;
+	text-align: right;
+	line-height: 100px;
+}
+img {
+	height: 300px
+}

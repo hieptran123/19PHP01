@@ -1,0 +1,48 @@
+div#main {
+	height: 650px;
+	width: 100%;
+	border:3px solid red;
+}
+div#header {
+	height: 200px;
+	width: 99%;
+}
+div#header1 {
+	color: #C133CB;
+	height: 100px;
+	width: 99%;
+	border: 2px solid red;
+	line-height: 100px;
+	text-align: center;
+	margin: 12px;
+}
+div#header2 {
+	color: #C133CB;
+	height: 68px;
+	width: 99%;
+	border: 2px solid red;
+	line-height: 68px;
+	text-align: center;
+	margin: 12px;
+}
+div#content {
+	color: #C133CB;
+	height: 300px;
+	width: 98%;
+	border: 2px solid red;
+	text-align: center;
+	line-height: 300px;
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-bottom: 12px;
+}
+div#footer {
+	color: #C133CB;
+	height: 106px;
+	width: 98%;
+	border: 2px solid red;
+	text-align: center;
+	line-height: 106px;
+	margin-left: 12px;
+}
+

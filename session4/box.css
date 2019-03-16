@@ -1,0 +1,9 @@
+#box1 {
+	border: 2px solid red;
+}
+#box2 {
+	border: 2px solid blue;
+	padding: 10px;
+	margin: 10px;
+	padding-top: 30px;
+}

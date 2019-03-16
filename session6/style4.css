@@ -85,6 +85,29 @@ footer {
 	line-height: 100px;
 	border: 1px solid blue;
 }
+@media screen and (max-width: 951px) {
+	.new3 {
+		width: 33.2%;
+	}
+@media screen and (max-width: 887px) {
+	.ads2 {
+		width: 49.5%;
+	}
+	.footer2 {
+		width: 49.6%;
+	}
+
+}
+@media screen and (max-width: 885px) {
+	.banner {
+		width: 69.3%;
+	}
+}
+@media screen and (max-width: 831px) {
+	.new3 {
+		width: 33%;
+	}
+}
 @media screen and (max-width: 768px) {
 	.container {
 		height: 700px;
@@ -130,6 +153,28 @@ footer {
 		width: 49.6%;
 		height: 96px;
 		line-height: 96px;
+	}
+}
+@media screen and (max-width: 552px){
+	.banner {
+		width: 49.5%;
+	}
+	.new2 {
+		width: 49.5%;
+	}
+	.footer2 {
+		width: 49.5%;
+	}
+}
+@media screen and (max-width: 541px) {
+	.new2 {
+		width: 49%;
+	}
+	.banner {
+		width: 49%;
+	}
+	.footer2 {
+		width: 49%;
 	}
 }
 @media screen and (max-width: 480px) {

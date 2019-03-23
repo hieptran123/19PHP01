@@ -1,0 +1,58 @@
+body {
+	margin: 0 auto;
+	width: 80%;
+	background-color: #C8D7DE;
+}
+ul li{
+	list-style-type: none;
+}
+ul li a{
+	text-decoration: none;
+	float: left;
+	padding: 20px 40px;
+	font-size: 15px;
+	background-color: #333;
+	display: inline-table;
+	color: white;
+	position: relative;
+}
+.box{
+	background: #FF4700;
+}
+ul li a:hover{
+	background: #FF4700	;
+	color: white;
+}
+ul li>.menu1{
+	display: none;
+	position: absolute;
+}
+ul li:hover>.menu1{
+	display: block;
+}
+ul li>.menu2{
+	display: none;
+	position: absolute;
+}
+ul li:hover>.menu2{
+	display: block;
+}
+ul li >.box2{
+	height:30px;
+	width:19%;
+	background: #3E5C6A;
+	margin-top: 57.1px;
+	margin-bottom: -65px;
+	padding-right: 1px;
+	margin-left: 391px;
+	font-size: 12px;
+}
+ul li >.box3{
+	height: 30px;
+	width: 9%;
+	font-size: 12px;
+	margin-left: 483px;
+	margin-top: 181px;
+	margin-bottom:-181px;	
+	background: #3E5C6A;
+}

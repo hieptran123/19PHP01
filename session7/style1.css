@@ -1,0 +1,55 @@
+* {
+	padding: 0;
+	margin:0;
+}
+.container {
+	height: 800px;
+	width: 90%;
+	border: 1px solid black;
+	margin-left: 20px;
+}
+header {
+	padding: 3px;
+	height: 100px;
+	width: 90%;
+	border-bottom: 1px solid yellow;
+}
+img {
+	height: 100px;
+	width: 20%;
+}
+.mm{
+	float: right;
+	height: 100px;
+	width: 70%;
+}
+h1,h2 {
+	margin-left: 50px;
+}
+section {
+	padding: 30px;
+	height: 500px;
+	width: 90%;
+}
+.ii {
+	height: 500px;
+	width: 60%;
+	border-right: 1px solid yellow;
+	float: left;
+}
+li {
+	margin-left: 30px;
+}
+ul {
+	margin-left: 30px;
+}
+.aa {
+	margin-left: 15px;
+	float: left;
+	height: 500px;
+	width: 38%;
+}
+h4 {
+
+}
+
